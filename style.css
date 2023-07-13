@@ -1,0 +1,115 @@
+* {
+    margin: auto;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    color: #66bfbf;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.title-text {
+    text-align: center;
+}
+
+.title-text > h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+    line-height: 4rem;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+
+.title-text > p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+
+.top-cloud {
+    position: absolute;
+    left: 70%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 20%;
+}
+
+.mountains {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.middle-container {
+    font-family: 'Roboto', sans-serif;
+}
+
+.profile-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+    height: 180px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.intro-text {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.bottom-container > h2 {
+    color: #66bfbf; 
+    font-size: 3rem; 
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.contact > h2 {
+    color: #66bfbf; 
+    font-size: 3rem; 
+    font-weight: 700;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.contact > p {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.card-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.card-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
