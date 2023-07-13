@@ -3,11 +3,10 @@
 }
 
 .top-container {
-    background-color: #e4f9f5;
     color: #66bfbf;
-    position: relative;
     padding-top: 100px;
-
+    background-color: #e1fffd;
+    position: relative;
 }
 
 .title-text {
@@ -24,18 +23,19 @@
 
 .title-text > p {
     font-family: 'Roboto', sans-serif;
-    font-weight: 900;
+    font-weight: 600;
     margin-bottom: 50px;
+    font-size: 2rem;
 }
 
 .top-cloud {
     position: absolute;
-    left: 70%;
+    left: 80%;
 }
 
 .bottom-cloud {
     position: absolute;
-    left: 20%;
+    left: 5%;
 }
 
 .mountains {
